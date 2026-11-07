@@ -1,0 +1,18 @@
+<svg width="300" height="80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="80" fill="#FFFFFF" rx="5"/>
+  
+  <!-- Decorative element -->
+  <circle cx="30" cy="40" r="20" fill="#C9A86A" opacity="0.3"/>
+  <circle cx="30" cy="40" r="15" fill="#5D4E37" opacity="0.5"/>
+  
+  <!-- Company Name -->
+  <text x="60" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#5D4E37">
+    Love Haute Spaces
+  </text>
+  
+  <!-- Tagline -->
+  <text x="60" y="55" font-family="Arial, sans-serif" font-size="10" font-style="italic" fill="#8B7355">
+    Beautiful Spaces, Beautiful Living
+  </text>
+</svg>

@@ -1,0 +1,95 @@
+====================================
+LOVE HAUTE SPACES - IMAGE PLACEHOLDERS
+====================================
+
+This file explains where to place your actual business images.
+
+REQUIRED IMAGES TO UPLOAD:
+====================================
+
+1. LOGO (MOST IMPORTANT!)
+   File: logo.png
+   Location: This folder (images/)
+   What: Your official Love Haute Spaces logo
+   Specs: PNG format, transparent background, 200x200px minimum
+
+2. PRODUCT IMAGES
+   Files needed in this folder (images/):
+   - headboards.jpg (Photo of your upholstered headboards)
+   - ottomans.jpg (Photo of your ottomans)
+   - side-tables.jpg (Photo of your side tables)
+   - drawers.jpg (Photo of chest of drawers)
+   Specs: JPG format, 800x600px minimum, under 300KB each
+
+3. CUSTOM BUILT-IN IMAGES
+   Files needed in this folder (images/):
+   - wardrobes.jpg (Custom wardrobe/closet project)
+   - bathroom-vanity.jpg (Bathroom vanity project)
+   - office-cabinets.jpg (Office cabinet project)
+   - tv-stands.jpg (TV stand project)
+   - kitchens.jpg (Custom kitchen project)
+   Specs: JPG format, 1000x750px minimum, under 400KB each
+
+4. GALLERY IMAGES
+   Location: images/gallery/ subfolder
+   Files: Add multiple project photos with these naming patterns:
+   - headboard-1.jpg, headboard-2.jpg (for upholstered furniture)
+   - kitchen-1.jpg, kitchen-2.jpg (for kitchen projects)
+   - wardrobe-1.jpg, wardrobe-2.jpg (for wardrobe projects)
+   - bathroom-1.jpg, bathroom-2.jpg (for bathroom projects)
+   - cabinet-1.jpg, cabinet-2.jpg (for other custom cabinets)
+   Specs: JPG format, 1200x900px, under 500KB each
+   Add as many as you want!
+
+5. OPTIONAL IMAGES
+   - hero.jpg (Homepage background, 1920x1080px, under 800KB)
+   - about.jpg (About section image, 800x600px, under 400KB)
+
+====================================
+WHAT HAPPENS IF IMAGES ARE MISSING?
+====================================
+
+The website is designed to handle missing images gracefully:
+- Missing gallery images will show elegant placeholders
+- Missing product images will display with a clean background
+- The website will still function perfectly
+
+However, for the BEST CUSTOMER EXPERIENCE, please upload:
+1. Your actual logo (HIGHEST PRIORITY)
+2. Real photos of your furniture products
+3. Multiple gallery images of completed projects
+
+====================================
+HOW TO ADD IMAGES
+====================================
+
+SIMPLE METHOD:
+1. Save your images with the exact filenames listed above
+2. Copy them into this "images" folder
+3. For gallery images, copy them into the "images/gallery" subfolder
+4. Refresh your browser to see the changes
+
+DETAILED INSTRUCTIONS:
+See IMAGE-UPLOAD-GUIDE.md in the main project folder
+
+====================================
+QUICK START PRIORITY
+====================================
+
+If you're in a hurry, upload these first:
+1. logo.png (Your business logo) - ESSENTIAL
+2. 3-5 photos for the gallery folder - Shows your work
+3. Product images - Makes sections look complete
+
+You can always add more images later!
+
+====================================
+
+For detailed help, see:
+- IMAGE-UPLOAD-GUIDE.md (Step-by-step photo guide)
+- README.md (Complete website documentation)
+- DEPLOYMENT-GUIDE.md (How to put website online)
+
+Questions? Contact: sthandwa28@icloud.com
+
+Beautiful Spaces, Beautiful Living. ✨
